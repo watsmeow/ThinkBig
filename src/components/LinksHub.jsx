@@ -9,13 +9,7 @@ export default function LinksHub() {
     <section className="links-hub section" id="links">
       <div className="container links-hub__container">
         <div className="links-hub__header">
-          <div className="links-hub__avatarWrap">
-            {/* <img
-              src="/images/logo-square.jpg"
-              alt="Think Big Bodybuilding"
-              className="links-hub__avatar"
-            /> */}
-          </div>
+
           <h2>@thinkbigbodybuilding</h2>
         </div>
 
