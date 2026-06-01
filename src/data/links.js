@@ -22,7 +22,7 @@ export const links = [
       },
       {
         title: "Parabolic Peps Code THINK",
-        url: "https://tinyurl.com/22ckkfjj",
+        url: "https://parabolicresearchco.com/?ref=think",
         icon: Pill,
       },
       {
