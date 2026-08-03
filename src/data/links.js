@@ -16,9 +16,9 @@ export const links = [
     icon: FlaskConical,
     children: [
       {
-        title: "Soma Chems Code THINK",
-        url: "https://tinyurl.com/yuut45vm",
-        icon: FlaskConical
+        title: "Disguised Alpha Code THINK",
+        url: "https://disguisedalpha.com/?coupon=think",
+        icon: FlaskConical,
       },
       {
         title: "Parabolic Peps Code THINK",
@@ -26,9 +26,9 @@ export const links = [
         icon: Pill,
       },
       {
-        title: "Modern Aminos Code THINKBIG",
-        url: "https://tinyurl.com/y4nts94n",
-        icon: Dumbbell,
+        title: "Soma Chems Code THINK",
+        url: "https://tinyurl.com/yuut45vm",
+        icon: FlaskConical,
       },
     ],
   },
