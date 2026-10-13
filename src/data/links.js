@@ -26,8 +26,8 @@ export const links = [
         icon: Pill,
       },
       {
-        title: "Soma Chems Code THINK",
-        url: "https://tinyurl.com/yuut45vm",
+        title: "V8 Peps Code THINK",
+        url: "https://tinyurl.com/2dcz35bh",
         icon: FlaskConical,
       },
     ],
